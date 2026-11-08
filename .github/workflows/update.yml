@@ -1,0 +1,65 @@
+name: update-schedule
+
+on:
+  schedule:
+    - cron: "0 5,15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-schedule
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Fetch posts and posters
+        run: python fetch.py 10
+
+      - name: Extract events
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EXTRACT_PROXY: none
+          EXTRACT_MODEL: gemini-3.1-flash-lite
+        run: python extract.py --write
+
+      - name: Build page, calendar feed, review and share preview
+        run: |
+          python build.py
+          python review.py
+          python make_og.py
+
+      - name: Review summary
+        run: cat review.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "schedule-bot"
+          git config user.email "schedule-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Update schedule $(date -u +%F)"
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds"

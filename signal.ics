@@ -1,0 +1,619 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//signal-schedule//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Сигнала
+X-WR-TIMEZONE:Europe/Kaliningrad
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:01d036c9cc8f91efc840@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261102T170000Z
+DTEND:20261102T180000Z
+SUMMARY:Клуб семей: Фоновая тревога
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча клуба «Фоновая тревога: вр
+ оде бы всё нормально\, но почему так стра
+ шно?». Спикер - Мила Дружинина\, семейный 
+ психолог. Формат живого диалога и разбор
+ а вопросов о тревоге и устойчивости.\nhttps:
+ //t.me/signalkld/12347
+URL:https://t.me/signalkld/12347
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd315b27eea6d27d3ab@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261104T163000Z
+DTEND:20261104T173000Z
+SUMMARY:Клуб авторов песен
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Встреча для авторов песен\, где уча
+ стники помогают друг другу доработать т
+ реки. Клуб открыт для всех желающих.\nhttps:/
+ /t.me/signalkld/12387
+URL:https://t.me/signalkld/12387
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5f4d5b144aa15f1efc@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261106T150000Z
+DTEND:20261106T160000Z
+SUMMARY:ЗАМЫСЕЛ: как автор приходит к идее пр
+ оизведения
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Паблик-ток с писателями и поэтами 
+ в рамках фестиваля «Непрерывность». Авт
+ оры расскажут о своем подходе к рождению
+  идеи\, работе с черновиками и развитии з
+ амысла.\nhttps://t.me/signalkld/12393
+URL:https://t.me/signalkld/12393
+END:VEVENT
+BEGIN:VEVENT
+UID:f283c616ca948aa2da0a@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261106T150000Z
+DTEND:20261106T160000Z
+SUMMARY:Как исследование превращается в кни
+ гу?
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Встреча с Максимом Поповым (издате
+ льство «Пикторика») в рамках фестиваля «
+ Непрерывность». Обсуждение того\, как ар
+ хивные исследования и работа с локально
+ й историей становятся основой для созда
+ ния книг.\nhttps://t.me/signalkld/12400
+URL:https://t.me/signalkld/12400
+END:VEVENT
+BEGIN:VEVENT
+UID:03f6f053eff2098049ca@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261106T160000Z
+DTEND:20261106T170000Z
+SUMMARY:Теорема Вейерштрасса: история\, кото
+ рая не может не достичь финальной точки
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Двухдневная писательская мастерс
+ кая под руководством Елизаветы Гариной. 
+ Участники научатся дописывать брошенны
+ е тексты\, используя авторские экзистенц
+ иальные практики.\nhttps://t.me/signalkld/12371
+URL:https://t.me/signalkld/12371
+END:VEVENT
+BEGIN:VEVENT
+UID:e0799dc50170b3aadd45@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261106T163000Z
+DTEND:20261106T173000Z
+SUMMARY:SPEEDBOOKING
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Формат коротких встреч-бесед\, где 
+ за 6 минут участники обсуждают любимые к
+ ниги. Ведущая - Дарья\, соорганизатор кни
+ жного клуба «Душно\, но не скушно».\nhttps://t.
+ me/signalkld/12340
+URL:https://t.me/signalkld/12340
+END:VEVENT
+BEGIN:VEVENT
+UID:e02a6c50c3d5f53e806d@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261106T180000Z
+DTEND:20261106T190000Z
+SUMMARY:ШАТЁР СКАЗОК
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Встреча в формате «шатра сказок»\, 
+ где участники делятся своими историями\,
+  превращая их в общую сказку. Ведущий - ре
+ жиссёр и сценарист Арсений Кочедыков.\nhtt
+ ps://t.me/signalkld/12355
+URL:https://t.me/signalkld/12355
+END:VEVENT
+BEGIN:VEVENT
+UID:78593c1f88004dba02d6@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T100000Z
+DTEND:20261107T110000Z
+SUMMARY:Перевод: туда и обратно
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Панельная дискуссия о влиянии пер
+ евода на читательское восприятие. Спике
+ ры - переводчики и преподаватели БФУ им. 
+ И. Канта - обсудят роль переводчика в тек
+ сте и грань между интерпретацией и соавт
+ орством.\nhttps://t.me/signalkld/12367
+URL:https://t.me/signalkld/12367
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe5ec10b3e8e922b3d0@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T100000Z
+DTEND:20261107T110000Z
+SUMMARY:Экслибрис: герб твоей личной библиот
+ еки (детский)
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Мастер-класс от Софьи Вейнблат по 
+ созданию собственного книжного знака (э
+ кслибриса). Участники познакомятся с ист
+ орией экслибрисов\, создадут эскиз и рел
+ ьефный штамп.\nhttps://t.me/signalkld/12396
+URL:https://t.me/signalkld/12396
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d33b8b13c3d31e9173@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T110000Z
+DTEND:20261107T120000Z
+SUMMARY:Самиздат: от текста до читателя
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Встреча с Василием Дриго (газета «
+ ЖИР») в рамках фестиваля «Непрерывность
+ ». Обсуждение особенностей самиздата\, е
+ го роли в современной издательской сред
+ е и взаимодействия с аудиторией.\nhttps://t.me/
+ signalkld/12401
+URL:https://t.me/signalkld/12401
+END:VEVENT
+BEGIN:VEVENT
+UID:a34a35216c8475efbce3@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T130000Z
+DTEND:20261107T140000Z
+SUMMARY:Мастер-класс по медленному чтению
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Мастер-класс по медленному чтению 
+ рассказа Кафки «Разыскания одной собаки
+ ». Ведущая - Алла Исправникова\, историк и
+  преподаватель. Участники будут анализи
+ ровать текст\, сравнивать переводы и обс
+ уждать детали.\nhttps://t.me/signalkld/12345
+URL:https://t.me/signalkld/12345
+END:VEVENT
+BEGIN:VEVENT
+UID:f1451d85836e60a9c014@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T130000Z
+DTEND:20261107T140000Z
+SUMMARY:Разговор с редактором
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча с редактором Дарьей Малев
+ аной в рамках фестиваля «Непрерывность»
+ . Обсуждение функции редактора\, рабочих 
+ процессов и мифов об авторстве. Возможно
+ сть задать вопросы эксперту.\nhttps://t.me/signalk
+ ld/12351
+URL:https://t.me/signalkld/12351
+END:VEVENT
+BEGIN:VEVENT
+UID:af2df03f98ffd2c1d079@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T140000Z
+DTEND:20261107T150000Z
+SUMMARY:Невозможность пейзажа: прогулка по К
+ алининграду с Женей Чайкой
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Прогулка-презентация книги Жени Ч
+ айки «Невозможность пейзажа». Маршрут о
+ бъединит значимые для автора места горо
+ да\, участники смогут делать «пейзажные 
+ зарисовки» и обсудить их.\nhttps://t.me/signalkld/123
+ 53
+URL:https://t.me/signalkld/12353
+END:VEVENT
+BEGIN:VEVENT
+UID:5614bc062810619e0001@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T140000Z
+DTEND:20261107T150000Z
+SUMMARY:Презентация книги Жени Чайки «Невоз
+ можность пейзажа»
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Презентация книги в формате прогу
+ лки.\nhttps://t.me/signalkld/12426
+URL:https://t.me/signalkld/12426
+END:VEVENT
+BEGIN:VEVENT
+UID:fdce0dac878a5807dd76@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+SUMMARY:Возвращение на Итаку
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Лекция Андрея Тесли о судьбе «Одис
+ сеи» в культуре. Обсуждение того\, как ме
+ нялось восприятие истории Одиссея на пр
+ отяжении веков и как она влияет на совре
+ менность.\nhttps://t.me/signalkld/12325
+URL:https://t.me/signalkld/12325
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba79ba7977a35f8504f@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+SUMMARY:Открытый семинар о независимых книж
+ ных в Калининграде
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Открытый семинар в рамках фестива
+ ля «Непрерывность» о развитии независим
+ ых книжных пространств в Калининграде. О
+ бсуждение проблем\, аудитории и взаимоде
+ йствия с другими институциями.\nhttps://t.me/sig
+ nalkld/12398
+URL:https://t.me/signalkld/12398
+END:VEVENT
+BEGIN:VEVENT
+UID:276912d0098f31e9ccd6@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+SUMMARY:Невидимый PR: как производство книги 
+ работает на ее продвижение
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Разговор о литературном маркетинг
+ е и о том\, как производство книги влияет 
+ на её продвижение. Эксперты Елизавета Пр
+ итыкина и Олег Никифоров разберут реаль
+ ные кейсы издательств «Логос» и «Гнозис
+ »\, обсудят оформление и позиционировани
+ е книг.\nhttps://t.me/signalkld/12403
+URL:https://t.me/signalkld/12403
+END:VEVENT
+BEGIN:VEVENT
+UID:00a422af8e5be3186fb6@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+SUMMARY:Долгие издания. Невидимый PR
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Лекция о том\, как производство кни
+ ги работает на ее продвижение. Обсудим и
+ сторию взлетов и падений вместе с Елизав
+ етой Притыкиной\, Олегом Никифоровым и п
+ иар-отделом издательства. Мероприятие п
+ роходит в рамках фестиваля «Непрерывнос
+ ть».\nhttps://t.me/signalkld/12429
+URL:https://t.me/signalkld/12429
+END:VEVENT
+BEGIN:VEVENT
+UID:99b25180fe6c70004ae7@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261107T193000Z
+DTEND:20261107T203000Z
+SUMMARY:Киноклуб: Лабиринт
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Показ фильма «Лабиринт» (1986) в рамк
+ ах киноклуба westside movieclub. Фильм демонстри
+ руется на языке оригинала с русскими суб
+ титрами.\nhttps://t.me/signalkld/12389
+URL:https://t.me/signalkld/12389
+END:VEVENT
+BEGIN:VEVENT
+UID:85d742b3f47d92ddf8eb@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T090000Z
+DTEND:20261108T100000Z
+SUMMARY:Экскурсия-исследование «Калинингра
+ д между строк»
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Экскурсия-исследование «Калининг
+ рад между строк» в рамках фестиваля «Неп
+ рерывность». Гид Дина Лях расскажет о го
+ роде как о тексте\, расшифровывая скрыты
+ й язык улиц и историю зданий.\nhttps://t.me/signalk
+ ld/12348
+URL:https://t.me/signalkld/12348
+END:VEVENT
+BEGIN:VEVENT
+UID:662cc565d89174b92ef3@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T100000Z
+DTEND:20261108T110000Z
+SUMMARY:Теорема Вейерштрасса: история\, кото
+ рая не может не достичь финальной точки
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Завершение двухдневной писательс
+ кой мастерской под руководством Елизаве
+ ты Гариной. Участники продолжат работу н
+ ад своими текстами\, чтобы найти финал\, к
+  которому они стремятся.\nhttps://t.me/signalkld/12371
+URL:https://t.me/signalkld/12371
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e2073d17690e996d91@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T100000Z
+DTEND:20261108T110000Z
+SUMMARY:Современная библиотека: читатель\, п
+ ространство\, сообщество
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Дискуссия в рамках фестиваля «Неп
+ рерывность» с представителями библиоте
+ к им. Маяковского и Чехова. Обсудят роль 
+ библиотек в современном мире\, цифровиза
+ цию и создание сообществ вокруг книжных 
+ пространств.\nhttps://t.me/signalkld/12388
+URL:https://t.me/signalkld/12388
+END:VEVENT
+BEGIN:VEVENT
+UID:d82c1c73a0ac5253c28d@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T100000Z
+DTEND:20261108T110000Z
+SUMMARY:Как из архива соцсетей собрать личны
+ й фотозин или черновик книги
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Мастер-класс Святослава Мурунова 
+ в рамках фестиваля «Непрерывность». Уча
+ стники научатся работать с цифровыми ар
+ хивами\, использовать ИИ для отбора мате
+ риалов и создавать визуальные истории (ф
+ отозины).\nhttps://t.me/signalkld/12402
+URL:https://t.me/signalkld/12402
+END:VEVENT
+BEGIN:VEVENT
+UID:9baefc998dc088a23eeb@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T120000Z
+DTEND:20261108T130000Z
+SUMMARY:Просмотр интервью Дени де Ружмона
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Показ интервью Дени де Ружмона с М
+ ишелем Арно. Фильм приурочен к выходу кн
+ иги «Мифы любви». В центре внимания - Дон 
+ Жуан\, трубадуры\, восток и запад. Меропри
+ ятие проходит в рамках фестиваля «Непре
+ рывность».\nhttps://t.me/signalkld/12429
+URL:https://t.me/signalkld/12429
+END:VEVENT
+BEGIN:VEVENT
+UID:caccdd0e61d4d35378da@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T123000Z
+DTEND:20261108T133000Z
+SUMMARY:Звуки страниц: разговор с чтецом об а
+ удиокнигах
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Встреча с профессиональным диктор
+ ом Ольгой Баулиной о профессии чтеца ауд
+ иокниг. Обсуждение работы с текстом\, пер
+ едачи авторского стиля и влияния голоса 
+ на восприятие\, а также практические тех
+ ники озвучки.\nhttps://t.me/signalkld/12377
+URL:https://t.me/signalkld/12377
+END:VEVENT
+BEGIN:VEVENT
+UID:381118b3db4bc03a476c@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T133000Z
+DTEND:20261108T160000Z
+SUMMARY:БУКСПИЧ
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча книжного клуба в рамках фе
+ стиваля «Непрерывность». Участники деля
+ тся впечатлениями о прочитанных книгах\,
+  обсуждают планы на чтение и знакомятся 
+ с другими любителями литературы.\nhttps://t.me
+ /signalkld/12302
+URL:https://t.me/signalkld/12302
+END:VEVENT
+BEGIN:VEVENT
+UID:61a4f37f24b6cabb99fb@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Литературный квиз «Слово за слово»
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Литературный квиз в рамках фестив
+ аля «Непрерывность». Победителям полага
+ ется скидка на покупку книг от приглашен
+ ных издательств. Вход осуществляется по 
+ предварительной регистрации.\nhttps://t.me/signa
+ lkld/12445
+URL:https://t.me/signalkld/12445
+END:VEVENT
+BEGIN:VEVENT
+UID:4a0f03a0d63202018fec@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T143000Z
+DTEND:20261108T163000Z
+SUMMARY:Что происходит с текстом\, когда он п
+ опадает на сцену?
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Театральная встреча в рамках фест
+ иваля «Непрерывность». Спикеры Катерина
+  Саган и Анастасия Козырева расскажут\, к
+ ак литературный текст превращается в сц
+ енарий и спектакль\, а также проведут неб
+ ольшую практическую часть.\nhttps://t.me/signalkld/
+ 12384
+URL:https://t.me/signalkld/12384
+END:VEVENT
+BEGIN:VEVENT
+UID:3de35a8456abf7e473c2@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T160000Z
+DTEND:20261108T170000Z
+SUMMARY:Паблик-ток с книжными клубами
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Паблик-ток с книжными клубами: обс
+ уждение опыта работы\, понимания литерат
+ уры и читателей за годы деятельности. Ме
+ роприятие проходит в рамках фестиваля «
+ Непрерывность».\nhttps://t.me/signalkld/12445
+URL:https://t.me/signalkld/12445
+END:VEVENT
+BEGIN:VEVENT
+UID:6967d68fbdb91b4fdd3b@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261108T183000Z
+DTEND:20261108T193000Z
+SUMMARY:Киноклуб: Бесконечная история
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Показ фильма «Бесконечная история
+ » (1984) в рамках книжного фестиваля «Непре
+ рывность». Фильм демонстрируется на язы
+ ке оригинала с русскими субтитрами.\nhttps:/
+ /t.me/signalkld/12389
+URL:https://t.me/signalkld/12389
+END:VEVENT
+BEGIN:VEVENT
+UID:34d7842636527265ac7b@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261109T160000Z
+DTEND:20261109T170000Z
+SUMMARY:Питчинг
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча для тех\, кто хочет обсудит
+ ь идеи новых городских проектов или подд
+ ержать инициаторов. В частности\, будет о
+ бсуждаться создание общественного сада 
+ в Калининграде. Приглашаются все желающ
+ ие.\nhttps://t.me/signalkld/12443
+URL:https://t.me/signalkld/12443
+END:VEVENT
+BEGIN:VEVENT
+UID:0dbd0599a99a759c188d@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261112T170000Z
+DTEND:20261112T180000Z
+SUMMARY:Лекция и тест-драйв: ИИ и город
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Лекция урбаниста Свята Мурунова о 
+ системе «Городской Диалог». Обсуждение 
+ того\, как данные и ИИ помогают анализиро
+ вать городские сообщества и проекты. Уча
+ стникам предоставят тестовый доступ к с
+ истеме.\nhttps://t.me/signalkld/12425
+URL:https://t.me/signalkld/12425
+END:VEVENT
+BEGIN:VEVENT
+UID:db88e664076164ffbbb6@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Вампиры: Маскарад - Вендетта
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Настольная игра\, где участники вы
+ ступают в роли вампиров\, плетущих интри
+ ги в Чикаго. Нужно собирать колоду\, блеф
+ овать и бороться за власть. Мастер игры - 
+ Никита.\nhttps://t.me/signalkld/12424
+URL:https://t.me/signalkld/12424
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf1bd39d54334660596@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261115T110000Z
+DTEND:20261115T180000Z
+SUMMARY:День во вселенной «Сумерек»
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Тематический день по саге «Сумерк
+ и»: настольные игры\, сборка LEGO\, создание
+  оберегов\, просмотр фильмов\, викторина 
+ и тематическое меню.\nhttps://t.me/signalkld/12399
+URL:https://t.me/signalkld/12399
+END:VEVENT
+BEGIN:VEVENT
+UID:bb68761b2c8588acd371@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261115T113000Z
+DTEND:20261115T123000Z
+SUMMARY:Мафия: Сумерки
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Авторская детективная игра по мот
+ ивам «Сумерек». Участники делятся на вам
+ пиров\, оборотней и мирных жителей. Масте
+ р игры - Лера. Количество игроков: от 16 до 
+ 18.\nhttps://t.me/signalkld/12415
+URL:https://t.me/signalkld/12415
+END:VEVENT
+BEGIN:VEVENT
+UID:89880b2c4cb94fd7658b@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261115T113000Z
+DTEND:20261115T123000Z
+SUMMARY:Ужастики
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Динамичная настольная игра\, где у
+ частники примеряют роль одного из двадц
+ ати оживших кино-кошмаров. Цель - напугат
+ ь как можно больше зрителей. Мастер игры 
+ - Иван. Мероприятие проходит в рамках Дня
+  Сумерек 2.\nhttps://t.me/signalkld/12442
+URL:https://t.me/signalkld/12442
+END:VEVENT
+BEGIN:VEVENT
+UID:668390815e2c241b61a2@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261115T113000Z
+DTEND:20261115T143000Z
+SUMMARY:Ярость Дракулы
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Настольная игра\, где охотники во г
+ лаве с Ван Хельсингом противостоят граф
+ у Дракуле. Участникам предстоит испытат
+ ь на себе всю ярость древнего зла. Мастер
+  игры - Хэсу. Мероприятие проходит в рамк
+ ах Дня Сумерек 2.\nhttps://t.me/signalkld/12460
+URL:https://t.me/signalkld/12460
+END:VEVENT
+BEGIN:VEVENT
+UID:21bd996e76109a5c0c56@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261116T170000Z
+DTEND:20261116T180000Z
+SUMMARY:Клуб семей: Мигрень
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча клуба «ПРОСТО ПОГОДА или М
+ ИГРЕНЬ?». Спикер - Алёна Константиновна Н
+ епомилуева\, невролог-цефалголог. Обсужд
+ ение отличий мигрени от головной боли и 
+ влияния стресса.\nhttps://t.me/signalkld/12347
+URL:https://t.me/signalkld/12347
+END:VEVENT
+BEGIN:VEVENT
+UID:eba24150232a9e696765@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+SUMMARY:Концерт на хэндпане Натальи Кузнецо
+ вой
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Концерт преподавателя по хангу На
+ тальи Кузнецовой. Часть гонорара будет н
+ аправлена подопечным центра помощи живо
+ тным «Биосфера Балтики».\nhttps://t.me/signalkld/1240
+ 4
+URL:https://t.me/signalkld/12404
+END:VEVENT
+BEGIN:VEVENT
+UID:e1979bff72929b1d0ed8@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART:20261119T163000Z
+DTEND:20261119T173000Z
+SUMMARY:Презентация книги Андрея Ренскова
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча с автором Андреем Ренсков
+ ым\, посвященная выходу его новой книги в
+  издательстве «Пальмира». Участники смо
+ гут пообщаться с писателем\, задать вопр
+ осы и получить автограф.\nhttps://t.me/signalkld/12376
+URL:https://t.me/signalkld/12376
+END:VEVENT
+BEGIN:VEVENT
+UID:0caf7be63f1dde32939b@signal-schedule
+DTSTAMP:20261108T224445Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Выставка-читка «Тигр в комнате»
+LOCATION:Сигнал\, Леонова 22\, Калининград
+DESCRIPTION:Встреча литературы и визуального 
+ искусства\, где авторы прочитают свои те
+ ксты\, а на стенах будут представлены илл
+ юстрации Кристины Бурнашовой. Итог опен-
+ колла для калининградских писателей.\nhttp
+ s://t.me/signalkld/12343
+URL:https://t.me/signalkld/12343
+END:VEVENT
+END:VCALENDAR
