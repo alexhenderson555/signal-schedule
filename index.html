@@ -48,7 +48,10 @@ img{display:block}
 /* top bar */
 .bar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:26px}
 .brand{display:flex;align-items:center;gap:12px;font:700 21px/1 var(--disp);letter-spacing:-.02em}
-.brand svg{flex:none}
+.brand .logo{height:54px;width:auto;flex:none}
+.brand .bt{padding-left:16px;border-left:1px solid var(--line)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .logo{filter:invert(1)}}
+:root[data-theme="dark"] .logo{filter:invert(1)}
 .brand small{display:block;margin-top:7px;font:400 13.5px/1.2 var(--sans);letter-spacing:0;color:var(--mute)}
 .tools{display:flex;gap:8px;align-items:center}
 .tabs{display:flex;gap:4px;background:var(--surface);border-radius:var(--r);padding:4px}
@@ -235,6 +238,7 @@ footer a{color:inherit}
   .wrap{padding:16px 16px 56px}
   .bar{margin-bottom:18px;flex-wrap:wrap}
   .brand{font-size:18px}.brand small{display:none}
+  .brand .logo{height:44px}.brand .bt{padding-left:12px}
   .tools{width:100%}
   .tabs{flex:1}.tabs button{flex:1;padding:9px 12px}
   .themebtn{height:44px;padding:0 14px}
@@ -268,8 +272,8 @@ footer a{color:inherit}
 <div class="wrap">
   <header class="bar">
     <div class="brand">
-      <svg class="mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="var(--acc)"/><circle cx="16" cy="16" r="3.6" fill="var(--on-acc)"/><circle cx="16" cy="16" r="9.2" fill="none" stroke="var(--on-acc)" stroke-width="2.4"/></svg>
-      <div>Расписание<small>Неофициально, по постам канала Сигнала</small></div>
+      <img class="logo" src="logo.webp" alt="Сигнал" width="72" height="54">
+      <div class="bt">Расписание<small>Неофициально, по постам канала Сигнала</small></div>
     </div>
     <div class="tools">
       <button class="themebtn" id="theme-btn" aria-label="Тема оформления">Тема: авто</button>
@@ -281,7 +285,7 @@ footer a{color:inherit}
   </header>
 
   <div id="app"></div>
-  <footer>Неофициальная страница. События и афиши взяты из открытых постов <a href="https://t.me/signalkld">канала Сигнала</a>, права на них у организаторов. Время и запись уточняйте по ссылке на пост.</footer>
+  <footer>Неофициальная страница. События и афиши взяты из открытых постов <a href="https://t.me/signalkld">канала Сигнала</a>, права на них у организаторов. Логотип Сигнала используется с их разрешения. Время и запись уточняйте по ссылке на пост.</footer>
 </div>
 <dialog id="dlg" aria-label="Событие"></dialog>
 
