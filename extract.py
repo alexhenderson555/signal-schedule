@@ -229,9 +229,26 @@ def norm_venue(v):
     return v
 
 
+def tiny(path):
+    """A 32 px copy of the poster as a data URI. Stretched by the browser it gives the soft backdrop behind a poster
+    without a runtime blur filter, which is what made scrolling heavy on browsers without GPU rasterization."""
+    try:
+        import base64, io
+        from PIL import Image, ImageFilter
+        im = Image.open(path).convert("RGB")
+        im.thumbnail((64, 80))
+        im = im.filter(ImageFilter.GaussianBlur(3.5))   # blurred once here, so stretching it later stays smooth
+        buf = io.BytesIO()
+        im.save(buf, "WEBP", quality=60)
+        return "data:image/webp;base64," + base64.b64encode(buf.getvalue()).decode()
+    except Exception:
+        return None
+
+
 for e in out:
     e["venue"] = norm_venue(e["venue"])
     e["image"] = image_for(by_id[e["post"]])
+    e["tiny"] = tiny(e["image"]) if e["image"] else None
     e["url"] = by_id[e["post"]]["url"]
     e["source"] = "Сигнал"
     e.pop("quote", None)
