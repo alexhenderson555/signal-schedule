@@ -218,7 +218,19 @@ for pid, group in by_post.items():
         seg = clean_text(raw[p:nxt[0]] if nxt else raw[p:])
         e["text"] = seg if len(seg) >= 120 else ""  # too short to read alone: the page falls back to desc
 
+def norm_venue(v):
+    """One spelling per place, so the venue filter does not fill up with variants of the same address."""
+    v = re.sub(r"^Старт:\s*", "", (v or "").strip()).split(";")[0].strip()
+    low = v.lower()
+    if "сигнал" in low or "леонов" in low:
+        return "Сигнал, Леонова 22"
+    if "башн" in low or "горького" in low:
+        return "Башня, Горького 116"
+    return v
+
+
 for e in out:
+    e["venue"] = norm_venue(e["venue"])
     e["image"] = image_for(by_id[e["post"]])
     e["url"] = by_id[e["post"]]["url"]
     e["source"] = "Сигнал"
