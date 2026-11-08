@@ -13,6 +13,12 @@ print(len(ev), "events inlined")
 KALININGRAD = timedelta(hours=2)   # UTC+2, no daylight saving
 now = datetime.now(timezone.utc)
 since = (now + KALININGRAD - timedelta(days=7)).date().isoformat()
+# a stable stamp (the newest post), so an unchanged schedule gives a byte-identical file and no empty commits
+try:
+    stamp = max(p["date"] for p in json.load(open("posts.json", encoding="utf8")))
+    stamp = datetime.fromisoformat(stamp).astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+except (OSError, ValueError):
+    stamp = now.strftime("%Y%m%dT%H%M%SZ")
 
 
 def esc(s):
@@ -45,7 +51,7 @@ for e in ev:
     if e["date"] < since:
         continue
     uid = hashlib.sha1((e["date"] + e["title"]).encode("utf8")).hexdigest()[:20] + "@signal-schedule"
-    lines += ["BEGIN:VEVENT", f"UID:{uid}", "DTSTAMP:" + now.strftime("%Y%m%dT%H%M%SZ")]
+    lines += ["BEGIN:VEVENT", f"UID:{uid}", "DTSTAMP:" + stamp]
     if e.get("start"):
         end = e.get("end")
         if not end or end <= e["start"]:   # no end given, or it wraps past midnight: assume an hour
