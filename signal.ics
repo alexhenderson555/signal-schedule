@@ -8,176 +8,8 @@ X-WR-TIMEZONE:Europe/Kaliningrad
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:85d742b3f47d92ddf8eb@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T090000Z
-DTEND:20261108T100000Z
-SUMMARY:Экскурсия-исследование «Калинингра
- д между строк»
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Экскурсия-исследование «Калининг
- рад между строк» в рамках фестиваля «Неп
- рерывность». Гид Дина Лях расскажет о го
- роде как о тексте\, расшифровывая скрыты
- й язык улиц и историю зданий.\nhttps://t.me/signalk
- ld/12348
-URL:https://t.me/signalkld/12348
-END:VEVENT
-BEGIN:VEVENT
-UID:662cc565d89174b92ef3@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T100000Z
-DTEND:20261108T110000Z
-SUMMARY:Теорема Вейерштрасса: история\, кото
- рая не может не достичь финальной точки
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Завершение двухдневной писательс
- кой мастерской под руководством Елизаве
- ты Гариной. Участники продолжат работу н
- ад своими текстами\, чтобы найти финал\, к
-  которому они стремятся.\nhttps://t.me/signalkld/12371
-URL:https://t.me/signalkld/12371
-END:VEVENT
-BEGIN:VEVENT
-UID:d1e2073d17690e996d91@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T100000Z
-DTEND:20261108T110000Z
-SUMMARY:Современная библиотека: читатель\, п
- ространство\, сообщество
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Дискуссия в рамках фестиваля «Неп
- рерывность» с представителями библиоте
- к им. Маяковского и Чехова. Обсудят роль 
- библиотек в современном мире\, цифровиза
- цию и создание сообществ вокруг книжных 
- пространств.\nhttps://t.me/signalkld/12388
-URL:https://t.me/signalkld/12388
-END:VEVENT
-BEGIN:VEVENT
-UID:d82c1c73a0ac5253c28d@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T100000Z
-DTEND:20261108T110000Z
-SUMMARY:Как из архива соцсетей собрать личны
- й фотозин или черновик книги
-LOCATION:Башня\, Горького 116\, Калининград
-DESCRIPTION:Мастер-класс Святослава Мурунова 
- в рамках фестиваля «Непрерывность». Уча
- стники научатся работать с цифровыми ар
- хивами\, использовать ИИ для отбора мате
- риалов и создавать визуальные истории (ф
- отозины).\nhttps://t.me/signalkld/12402
-URL:https://t.me/signalkld/12402
-END:VEVENT
-BEGIN:VEVENT
-UID:9baefc998dc088a23eeb@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T120000Z
-DTEND:20261108T130000Z
-SUMMARY:Просмотр интервью Дени де Ружмона
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Показ интервью Дени де Ружмона с М
- ишелем Арно. Фильм приурочен к выходу кн
- иги «Мифы любви». В центре внимания - Дон 
- Жуан\, трубадуры\, восток и запад. Меропри
- ятие проходит в рамках фестиваля «Непре
- рывность».\nhttps://t.me/signalkld/12429
-URL:https://t.me/signalkld/12429
-END:VEVENT
-BEGIN:VEVENT
-UID:caccdd0e61d4d35378da@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T123000Z
-DTEND:20261108T133000Z
-SUMMARY:Звуки страниц: разговор с чтецом об а
- удиокнигах
-LOCATION:Башня\, Горького 116\, Калининград
-DESCRIPTION:Встреча с профессиональным диктор
- ом Ольгой Баулиной о профессии чтеца ауд
- иокниг. Обсуждение работы с текстом\, пер
- едачи авторского стиля и влияния голоса 
- на восприятие\, а также практические тех
- ники озвучки.\nhttps://t.me/signalkld/12377
-URL:https://t.me/signalkld/12377
-END:VEVENT
-BEGIN:VEVENT
-UID:381118b3db4bc03a476c@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T133000Z
-DTEND:20261108T160000Z
-SUMMARY:БУКСПИЧ
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Писательский или издательский пит
- чинг в рамках фестиваля «Непрерывность»
- . Мероприятие проходит в мастерской арт-
- пространства «Сигнал». Требуется предва
- рительная регистрация.\nhttps://t.me/signalkld/12445
-URL:https://t.me/signalkld/12445
-END:VEVENT
-BEGIN:VEVENT
-UID:61a4f37f24b6cabb99fb@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:Литературный квиз «Слово за слово»
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Литературный квиз в рамках фестив
- аля «Непрерывность». Победителям полага
- ется скидка на покупку книг от приглашен
- ных издательств. Вход осуществляется по 
- предварительной регистрации.\nhttps://t.me/signa
- lkld/12445
-URL:https://t.me/signalkld/12445
-END:VEVENT
-BEGIN:VEVENT
-UID:4a0f03a0d63202018fec@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T143000Z
-DTEND:20261108T163000Z
-SUMMARY:Что происходит с текстом\, когда он п
- опадает на сцену?
-LOCATION:Башня\, Горького 116\, Калининград
-DESCRIPTION:Театральная встреча в рамках фест
- иваля «Непрерывность». Спикеры Катерина
-  Саган и Анастасия Козырева расскажут\, к
- ак литературный текст превращается в сц
- енарий и спектакль\, а также проведут неб
- ольшую практическую часть.\nhttps://t.me/signalkld/
- 12384
-URL:https://t.me/signalkld/12384
-END:VEVENT
-BEGIN:VEVENT
-UID:3de35a8456abf7e473c2@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T160000Z
-DTEND:20261108T170000Z
-SUMMARY:Паблик-ток с книжными клубами
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Паблик-ток с книжными клубами: обс
- уждение опыта работы\, понимания литерат
- уры и читателей за годы деятельности. Ме
- роприятие проходит в рамках фестиваля «
- Непрерывность».\nhttps://t.me/signalkld/12445
-URL:https://t.me/signalkld/12445
-END:VEVENT
-BEGIN:VEVENT
-UID:6967d68fbdb91b4fdd3b@signal-schedule
-DTSTAMP:20261115T115051Z
-DTSTART:20261108T183000Z
-DTEND:20261108T193000Z
-SUMMARY:Киноклуб: Бесконечная история
-LOCATION:Сигнал\, Леонова 22\, Калининград
-DESCRIPTION:Показ фильма «Бесконечная история
- » (1984) в рамках книжного фестиваля «Непре
- рывность». Фильм демонстрируется на язы
- ке оригинала с русскими субтитрами.\nhttps:/
- /t.me/signalkld/12389
-URL:https://t.me/signalkld/12389
-END:VEVENT
-BEGIN:VEVENT
 UID:34d7842636527265ac7b@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261109T160000Z
 DTEND:20261109T170000Z
 SUMMARY:Питчинг
@@ -192,7 +24,7 @@ URL:https://t.me/signalkld/12443
 END:VEVENT
 BEGIN:VEVENT
 UID:33976b3ddcddeeef1d5f@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261109T170000Z
 DTEND:20261109T180000Z
 SUMMARY:Презентация книги Жени Чайки "Невозм
@@ -212,7 +44,7 @@ URL:https://t.me/signalkld/12463
 END:VEVENT
 BEGIN:VEVENT
 UID:d1e24973e9a2db6a35ab@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:ТОК от «Балтийского звука»
@@ -227,7 +59,7 @@ URL:https://t.me/signalkld/12496
 END:VEVENT
 BEGIN:VEVENT
 UID:0dbd0599a99a759c188d@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261112T170000Z
 DTEND:20261112T180000Z
 SUMMARY:Лекция и тест-драйв: ИИ и город
@@ -242,7 +74,7 @@ URL:https://t.me/signalkld/12425
 END:VEVENT
 BEGIN:VEVENT
 UID:ce4c82955ec1a7ffa8b4@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261112T170000Z
 DTEND:20261112T180000Z
 SUMMARY:Обсуждение романа Питера Хёга «Твои
@@ -258,7 +90,7 @@ URL:https://t.me/signalkld/12489
 END:VEVENT
 BEGIN:VEVENT
 UID:215fcc46218691566d7f@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Читка пьес
@@ -274,7 +106,7 @@ URL:https://t.me/signalkld/12464
 END:VEVENT
 BEGIN:VEVENT
 UID:59080c29b03bfe163187@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261113T160000Z
 DTEND:20261113T170000Z
 SUMMARY:Пятничный вечер Codenames
@@ -289,7 +121,7 @@ URL:https://t.me/signalkld/12494
 END:VEVENT
 BEGIN:VEVENT
 UID:2f674f18ef9da35e8922@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261113T183000Z
 DTEND:20261113T193000Z
 SUMMARY:Коралина в стране кошмаров
@@ -304,7 +136,7 @@ URL:https://t.me/signalkld/12480
 END:VEVENT
 BEGIN:VEVENT
 UID:679d14e2372642569664@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261113T183000Z
 DTEND:20261113T193000Z
 SUMMARY:Кинопоказ и обсуждение
@@ -318,7 +150,7 @@ URL:https://t.me/signalkld/12501
 END:VEVENT
 BEGIN:VEVENT
 UID:d608643f04c031485aa1@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261114T110000Z
 DTEND:20261114T120000Z
 SUMMARY:English Café: Cancel Culture
@@ -335,7 +167,7 @@ URL:https://t.me/signalkld/12491
 END:VEVENT
 BEGIN:VEVENT
 UID:6d335e80a83f4a7f7c4b@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261114T160000Z
 DTEND:20261114T170000Z
 SUMMARY:ТОК 3: Сайленс\, загрех и Lexicon Somni
@@ -351,7 +183,7 @@ URL:https://t.me/signalkld/12477
 END:VEVENT
 BEGIN:VEVENT
 UID:db88e664076164ffbbb6@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Вампиры: Маскарад - Вендетта
@@ -365,7 +197,7 @@ URL:https://t.me/signalkld/12424
 END:VEVENT
 BEGIN:VEVENT
 UID:6d8b67e342636ba41bde@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T090000Z
 DTEND:20261115T100000Z
 SUMMARY:Каппинг в Башне
@@ -380,7 +212,7 @@ URL:https://t.me/signalkld/12486
 END:VEVENT
 BEGIN:VEVENT
 UID:1bf1bd39d54334660596@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T110000Z
 DTEND:20261115T180000Z
 SUMMARY:День во вселенной «Сумерек»
@@ -393,7 +225,7 @@ URL:https://t.me/signalkld/12399
 END:VEVENT
 BEGIN:VEVENT
 UID:fbf18b7c2aabcd3ec6f8@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T110000Z
 DTEND:20261115T120000Z
 SUMMARY:Сборка дома Калленов из LEGO
@@ -408,7 +240,7 @@ URL:https://t.me/signalkld/12504
 END:VEVENT
 BEGIN:VEVENT
 UID:bb68761b2c8588acd371@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T113000Z
 DTEND:20261115T123000Z
 SUMMARY:Мафия: Сумерки
@@ -422,7 +254,7 @@ URL:https://t.me/signalkld/12415
 END:VEVENT
 BEGIN:VEVENT
 UID:89880b2c4cb94fd7658b@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T113000Z
 DTEND:20261115T123000Z
 SUMMARY:Ужастики
@@ -437,7 +269,7 @@ URL:https://t.me/signalkld/12442
 END:VEVENT
 BEGIN:VEVENT
 UID:668390815e2c241b61a2@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T113000Z
 DTEND:20261115T143000Z
 SUMMARY:Ярость Дракулы
@@ -452,7 +284,7 @@ URL:https://t.me/signalkld/12460
 END:VEVENT
 BEGIN:VEVENT
 UID:3ea58f23f967ac781e7e@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T113000Z
 DTEND:20261115T123000Z
 SUMMARY:Пьющие ночь (VTM-5)
@@ -468,7 +300,7 @@ URL:https://t.me/signalkld/12476
 END:VEVENT
 BEGIN:VEVENT
 UID:ef2eda16fb7df7e5fd98@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261115T113000Z
 DTEND:20261115T123000Z
 SUMMARY:Мастер-класс «Нити судьбы»
@@ -483,7 +315,7 @@ URL:https://t.me/signalkld/12499
 END:VEVENT
 BEGIN:VEVENT
 UID:21bd996e76109a5c0c56@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:Клуб семей: Мигрень
@@ -497,7 +329,7 @@ URL:https://t.me/signalkld/12347
 END:VEVENT
 BEGIN:VEVENT
 UID:025136e99f24ae402226@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:«ПРОСТО ПОГОДА» или МИГРЕНЬ?
@@ -512,7 +344,7 @@ URL:https://t.me/signalkld/12487
 END:VEVENT
 BEGIN:VEVENT
 UID:eba24150232a9e696765@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:Концерт на хэндпане Натальи Кузнецо
@@ -527,7 +359,7 @@ URL:https://t.me/signalkld/12404
 END:VEVENT
 BEGIN:VEVENT
 UID:eb8ee5ee512cbc6dc5ab@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:Книжный клуб «Коллективное Сознател
@@ -542,8 +374,23 @@ DESCRIPTION:Встреча книжного клуба для обсужд
 URL:https://t.me/signalkld/12488
 END:VEVENT
 BEGIN:VEVENT
+UID:3462330ecb1961725f14@signal-schedule
+DTSTAMP:20261116T124923Z
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+SUMMARY:Сонг.Клуб
+LOCATION:Башня\, Горького 116\, Калининград
+DESCRIPTION:Музыкальный круг для прослушивани
+ я набросков\, готовых песен\, сведений и м
+ астерингов участников. Цель встречи - по
+ лучить обратную связь и советы по улучше
+ нию материала в дружеской атмосфере.\nhttps
+ ://t.me/signalkld/12506
+URL:https://t.me/signalkld/12506
+END:VEVENT
+BEGIN:VEVENT
 UID:e1979bff72929b1d0ed8@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261119T163000Z
 DTEND:20261119T173000Z
 SUMMARY:Презентация книги Андрея Ренскова
@@ -557,7 +404,7 @@ URL:https://t.me/signalkld/12376
 END:VEVENT
 BEGIN:VEVENT
 UID:f447eaa0e0ce09c4545c@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261120T170000Z
 DTEND:20261120T180000Z
 SUMMARY:Два мира одной музыки
@@ -572,7 +419,7 @@ URL:https://t.me/signalkld/12495
 END:VEVENT
 BEGIN:VEVENT
 UID:b329b2b138636e7f7ab5@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART:20261126T170000Z
 DTEND:20261126T180000Z
 SUMMARY:Книжный клуб VÄRMA
@@ -585,7 +432,7 @@ URL:https://t.me/signalkld/12503
 END:VEVENT
 BEGIN:VEVENT
 UID:0caf7be63f1dde32939b@signal-schedule
-DTSTAMP:20261115T115051Z
+DTSTAMP:20261116T124923Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Выставка-читка «Тигр в комнате»
